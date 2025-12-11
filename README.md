@@ -1,8 +1,8 @@
 ## 👋 Hello there!
 
-My name is Farah, and I’m an aspiring programmer, photographer, runner, and traveler. My interest in AI has been constantly growing, so this space is where I apply the concepts I learn and build fun programming projects along the way.
+My name is Farah, and I’m an aspiring 💻 programmer, 📸 photographer, 🏃🏽‍♀️ runner, and ✈️ traveler. My interest in AI has been constantly growing, so this space is where I apply the concepts I learn and build fun programming projects along the way.
 
-I absolutely love reading, and some of my favorite AI-related books so far are:
+📚📚 I absolutely love reading, and some of my favorite AI-related books so far are:
 
 1. **_The Coming Wave_ by Mustafa Suleyman** — Written by the CEO of Microsoft AI, this book discusses the importance of regulating powerful technologies like AI to navigate the risks ahead.  
 2. **_AI Superpowers: China, Silicon Valley, and the New World Order_ by Kai-Fu Lee** — A deep dive into the global AI race and its social and economic impacts, especially on developing countries.  
@@ -13,4 +13,4 @@ I’m always on the lookout for new book and podcast recommendations—especiall
 
 ---
 
-Feel free to peek into my work, and if you’d like to connect or say hi, here’s my 🔗 **[linkedin](https://www.linkedin.com/in/farah-kamal-a34134153)** 
+## 🔗 If you’d like to connect or communicate, here’s my **[linkedin](https://www.linkedin.com/in/farah-kamal-a34134153)** 
