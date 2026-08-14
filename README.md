@@ -1,8 +1,6 @@
 ## Hi, I'm Farah 👋
 
-### AI-Solutions Engineer · Mechatronics and Robotics · TUM AI in Society M.Sc. Student
-
-I enjoy turning complex problems into practical, lightweight solutions over a wide range of application fields.
+I'm an AI-Soluions engineer with a background in Mechatronics and Robotics and software development. I enjoy turning complex problems into practical, lightweight solutions over a wide range of application fields.
 
 Currently focused on:
 - 🤖 RAG & AI Agents
