@@ -14,16 +14,19 @@ Currently focused on:
 ### 🔎 RAG AI Agent
 An AI application exploring retrieval-augmented generation,
 using vector search to generate context-aware responses.
+
 **Tech:** Python · LangChain · Vector Databases
 
 ### 🗄️ Vector Databases
 An exploration of vector databases and semantic search,
 including embedding generation, similarity search, and retrieval
 pipelines.
+
 **Tech:** Python · Qdrant · ChromaDB · Embeddings
 
 ### 💬 Sentiment Analysis
 Machine-learning project exploring NLP-based sentiment classification.
+
 **Tech:** Python · Scikit-learn · NLP · Machine Learning
 
 ### 📊 Data Science & Programming
