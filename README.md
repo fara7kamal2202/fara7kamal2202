@@ -2,12 +2,12 @@
 I'm an AI Solutions Engineer with a background in Mechatronics, Robotics, and software development. I enjoy acting as a **force multiplier** — turning complex, loosely-defined problems into practical, **lightweight tools, dashboards, and automations**, often faster than a full engineering cycle allows.
 
 Currently focused on:
-- 🤖 RAG & AI Agents
-- 🧠 AI-powered knowledge management
-- 📊 Data analysis
-- 🐍 Python scripting
 - ⚡ AI-assisted / "vibe coding" development with tools like Github Copilot
 - 🔧 No-code / low-code tooling using n8n and Lovable
+- 🧠 AI-powered knowledge management
+- 🤖 RAG & AI Agents
+- 📊 Data analysis
+- 🐍 Python scripting
 
 ## Featured Projects
 
