@@ -2,8 +2,6 @@
 
 ### AI-Solutions Engineer · Mechatronics and Robotics · TUM AI in Society M.Sc. Student
 
----
-
 I enjoy turning complex problems into practical, lightweight solutions over a wide range of application fields.
 
 Currently focused on:
@@ -11,8 +9,6 @@ Currently focused on:
 - 🧠 AI-powered knowledge management
 - 📊 Data analysis
 - 🐍 Python-based tools
-
----
 
 ## Featured Projects
 
@@ -39,8 +35,6 @@ from data preprocessing and feature engineering to model evaluation.
 ### 📊 Data Science & Programming
 A collection of projects exploring Python programming,
 snd data analysis.
-
----
 
 ## 🎓 Background
 
