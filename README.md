@@ -8,6 +8,7 @@ Currently focused on:
 - 📊 Data analysis
 - 🐍 Python-based tools
 
+
 ## Featured Projects
 
 ### 🔎 RAG AI Agent
@@ -33,6 +34,7 @@ from data preprocessing and feature engineering to model evaluation.
 ### 📊 Data Science & Programming
 A collection of projects exploring Python programming,
 snd data analysis.
+
 
 ## 🎓 Background
 
