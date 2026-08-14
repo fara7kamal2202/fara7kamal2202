@@ -1,6 +1,6 @@
 ## Hi, I'm Farah 👋
 
-# AI-Solutions Engineer · Mechatronics and Robotics · TUM AI in Society M.Sc. Student
+### AI-Solutions Engineer · Mechatronics and Robotics · TUM AI in Society M.Sc. Student
 
 ---
 
